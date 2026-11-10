@@ -1,8 +1,8 @@
-# Global Mapping of Small Agricultural water bodies
+# Global mapping of small agricultural water bodies
 
 This repository contains the Google Earth Engine (GEE) JavaScript code used to detect, filter, and analyze small agricultural water bodies globally (March 2024 – February 2025). 
 
-These scripts accompany the paper: **"Global mapping of small agricultural water bodies reveals a hidden water storage network."**
+These scripts accompany the paper: **"Global mapping of small water bodies on agricultural land"**
 
 ## Repository Structure
 
