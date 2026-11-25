@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the following metadata."
+title: "Global mapping of small water bodies on agricultural land—code"
+type: software
+authors:
+  - family-names: "Narayanaswamy"
+    given-names: "Sankeerth"
+  - family-names: "Aminzadeh"
+    given-names: "Milad"
+  - family-names: "Alemohammad"
+    given-names: "Hamed"
+  - family-names: "Shokri"
+    given-names: "Nima"
+repository-code: "https://github.com/ghi-tuhh/global-agricultural-reservoirs"
